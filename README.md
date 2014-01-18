@@ -1,6 +1,4 @@
-# One Month Rails
+# Pracice App
 
-This is the pinteresting sample app for 
+This is the sample app for 
 [*Website*](http://www.google.com)
-
-by [Mattan][http://www...]
