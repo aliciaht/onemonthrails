@@ -10,6 +10,10 @@ $jumbotron-bg: white;
 
 @import 'bootstrap';
 
+body{
+	background:url("http://www.crowdsifter.co/wallart_big.jpg")
+}
+
 .center{
 	text-align: center;
 }
@@ -17,3 +21,4 @@ $jumbotron-bg: white;
 .navbar-brand{
 	font-weight: bold;
 }
+
